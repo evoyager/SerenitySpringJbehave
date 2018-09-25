@@ -4,13 +4,14 @@
 
 ### Run via Maven
 
-Command line: <i>clean verify -DstoryFilter=google -Dwebdriver.driver=chrome -Dwebdriver.chrome.driver=/Users/ievgengusar/Downloads/chromedriver -e</i>
-
+Command line: <i>clean verify</i>
 
 ### Run via JUnit
 Class: <i>com.voyager.serenity.spring.Adder</i>
 
 VM options: <i>-ea</i>
+
+
 
 ## google.story
 
